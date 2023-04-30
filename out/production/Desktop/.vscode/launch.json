@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_Reverse",
+            "request": "launch",
+            "mainClass": "Array_Reverse",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ass2_Q1",
+            "request": "launch",
+            "mainClass": "Ass2_Q1",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble_Sort",
+            "request": "launch",
+            "mainClass": "Bubble_Sort",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuyandSell_Stock",
+            "request": "launch",
+            "mainClass": "BuyandSell_Stock",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contains_Duplicate",
+            "request": "launch",
+            "mainClass": "Contains_Duplicate",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Counting_Sort",
+            "request": "launch",
+            "mainClass": "Counting_Sort",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Distribution",
+            "request": "launch",
+            "mainClass": "Distribution",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoornamePLATE",
+            "request": "launch",
+            "mainClass": "DoornamePLATE",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_max",
+            "request": "launch",
+            "mainClass": "Find_max",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greedy_Numbers",
+            "request": "launch",
+            "mainClass": "Greedy_Numbers",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch INTERFACES",
+            "request": "launch",
+            "mainClass": "INTERFACES",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion_Sort",
+            "request": "launch",
+            "mainClass": "Insertion_Sort",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kadanes_Algorithm",
+            "request": "launch",
+            "mainClass": "Kadanes_Algorithm",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest_String",
+            "request": "launch",
+            "mainClass": "Largest_String",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linear_Search",
+            "request": "launch",
+            "mainClass": "Linear_Search",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maverick_Problem",
+            "request": "launch",
+            "mainClass": "Maverick_Problem",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_Sub_Array_Brute_Force",
+            "request": "launch",
+            "mainClass": "Max_Sub_Array_Brute_Force",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_Sub_Array_Prefix_Sum",
+            "request": "launch",
+            "mainClass": "Max_Sub_Array_Prefix_Sum",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_GCD",
+            "request": "launch",
+            "mainClass": "Maximum_GCD",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_Sort",
+            "request": "launch",
+            "mainClass": "Merge_Sort",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_Sort_Strings_array",
+            "request": "launch",
+            "mainClass": "Merge_Sort_Strings_array",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multi_ArrayList",
+            "request": "launch",
+            "mainClass": "Multi_ArrayList",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch New_Year_Meet",
+            "request": "launch",
+            "mainClass": "New_Year_Meet",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumtoText",
+            "request": "launch",
+            "mainClass": "NumtoText",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch OCCURENCE",
+            "request": "launch",
+            "mainClass": "OCCURENCE",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Optimal_Books",
+            "request": "launch",
+            "mainClass": "Optimal_Books",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pairs_in_Array",
+            "request": "launch",
+            "mainClass": "Pairs_in_Array",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pal_indi",
+            "request": "launch",
+            "mainClass": "Pal_indi",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome_indices",
+            "request": "launch",
+            "mainClass": "Palindrome_indices",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome_indiices",
+            "request": "launch",
+            "mainClass": "Palindrome_indiices",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question1",
+            "request": "launch",
+            "mainClass": "Question1",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question2",
+            "request": "launch",
+            "mainClass": "Question2",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question3",
+            "request": "launch",
+            "mainClass": "Question3",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question5",
+            "request": "launch",
+            "mainClass": "Question5",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quick_Sort_Code",
+            "request": "launch",
+            "mainClass": "Quick_Sort_Code",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Replace_Letter",
+            "request": "launch",
+            "mainClass": "Replace_Letter",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_array",
+            "request": "launch",
+            "mainClass": "Reverse_array",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Robo_Test",
+            "request": "launch",
+            "mainClass": "Robo_Test",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection_Sort",
+            "request": "launch",
+            "mainClass": "Selection_Sort",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shortest_Path",
+            "request": "launch",
+            "mainClass": "Shortest_Path",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sigree",
+            "request": "launch",
+            "mainClass": "Sigree",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortAlgo",
+            "request": "launch",
+            "mainClass": "SortAlgo",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Special_Number",
+            "request": "launch",
+            "mainClass": "Special_Number",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Spiral_Matrix_Print",
+            "request": "launch",
+            "mainClass": "Spiral_Matrix_Print",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Palindrome",
+            "request": "launch",
+            "mainClass": "String_Palindrome",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Permutations",
+            "request": "launch",
+            "mainClass": "String_Permutations",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Subsets",
+            "request": "launch",
+            "mainClass": "String_Subsets",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarray_print",
+            "request": "launch",
+            "mainClass": "Subarray_print",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch TWO_SUM_LEETCODE",
+            "request": "launch",
+            "mainClass": "TWO_SUM_LEETCODE",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tower_of_hanoi",
+            "request": "launch",
+            "mainClass": "Tower_of_hanoi",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trapping_Rainwater",
+            "request": "launch",
+            "mainClass": "Trapping_Rainwater",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch Word_Capitalisation",
+            "request": "launch",
+            "mainClass": "Word_Capitalisation",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch brute_force",
+            "request": "launch",
+            "mainClass": "brute_force",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch power_n",
+            "request": "launch",
+            "mainClass": "power_n",
+            "projectName": "Java_eb74c629"
+        },
+        {
+            "type": "java",
+            "name": "Launch q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "Java_eb74c629"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": [
+        "Arrays_Assignment",
+        ""
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql ",
+            "database": "dbms",
+            "username": "am730",
+            "password": "ssAY54^!"
+        }
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
